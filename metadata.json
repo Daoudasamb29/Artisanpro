@@ -1,0 +1,6 @@
+{
+  "name": "ArtisanPro Sénégal",
+  "description": "Application de gestion professionnelle pour artisans du bâtiment au Sénégal (plombiers, électriciens, maçons) : devis, factures & reçus, suivi clients et comptabilité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
