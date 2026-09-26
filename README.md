@@ -24,7 +24,7 @@ Cette application est prête pour un déploiement instantané sur **[Vercel](htt
    - **Framework Preset** : `Vite`
    - **Build Command** : `npm run build`
    - **Output Directory** : `dist`
-   - **Install Command** : `npm install`
+   - **Install Command** : `npm install --legacy-peer-deps`
 6. Cliquez sur **« Deploy »**. Votre application sera en ligne en quelques secondes avec une URL HTTPS sécurisée (ex: `https://artisanpro-senegal.vercel.app`).
 
 ---
